@@ -2,5 +2,5 @@
 Simple static heroku node app
 
 # Demo
-Visit [Sample App](https://platform-deploy-demo-4783.herokuapp.com/)
+Visit [Sample App](https://dashboard-deployment.herokuapp.com/)
 
